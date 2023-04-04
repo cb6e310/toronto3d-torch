@@ -6,7 +6,7 @@ This is the PyTorch entry of Dataset [Toronto-3D](https://github.com/WeikaiTan/T
 - numpy
 - pandas (optional)
 - Cython
-- PyTorch
+- PyTorch >= 1.2
 ### Compile CXX
 > sh compile_op.sh
 ## Usage
